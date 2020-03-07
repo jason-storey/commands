@@ -1,0 +1,15 @@
+{
+    "name" : "com.jasonstorey.commands",
+    "displayName" : "Jason's Command System",
+    "version" : "1.0.0",
+    "unity" : "2019.1",
+    "author" : "Jason Storey",
+    "description" : "A quick and dirty implementation of a command stack for adding undo/redo functionality to prototypes and demo projects (do not use in production ready projects)",
+    "dependencies" : {
+
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/jason-storey/commands.git"
+    }
+}
